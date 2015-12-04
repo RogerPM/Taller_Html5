@@ -3,7 +3,7 @@
     <head>
         <title>Example</title><!--Titulo de mi web-->
          <meta charset="utf-8" /><!--Codificacion de caracteres-->
-         <link rel="stylesheet" type="text/css" href="css/style.css"><!--Estilos cargados desde un archivo-->
+         <link rel="stylesheet" type="text/css" href="style.css"><!--Estilos cargados desde un archivo-->
          <meta name="author" content="Sandra Valencia"><!--Autor-->
     </head>
     <body>
@@ -28,17 +28,11 @@
         </header>
         <!--Contenido del sitio-->
         <div class="head-image"><!--Imagen de cabecera-->
-            <img src="img/geek.jpg">
         </div>
         <!--Contenido general-->
         <div class="fila">
             <!--Articulos-->
-            <section class="contenido">
-                <article class="art">
-                    <h1>Lorem imp?</h1><!--Titulo de articulo-->
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p><!--Contenido de articulo-->
-                </article>
-            </section>
+            
             <!--Sidebar derecho-->
             <aside class="sidebar">
                 <h1>Footer</h1>
